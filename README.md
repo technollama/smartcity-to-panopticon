@@ -3,7 +3,7 @@ smartcity-to-panopticon
 
 Chrome extension that replaces occurrences of 'smart city' with 'Panopticon'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/sctopan.crx?raw=true)
+[Direct download of crx file](https://github.com/technollama/smartcity-to-panopticon/blob/master/sctopan.crx?raw=true)
 
 This is a fork of Cloud-to-butt: https://github.com/panicsteve/cloud-to-butt 
 
